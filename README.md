@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 
 **🔭 I’m currently working** at Field Effect at a Software Developer CO-OP and I'm a 4th year Software Engineering student at the University of Ottawa.
